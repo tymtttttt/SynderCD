@@ -1,5 +1,5 @@
 <div align="center">
-<h1> SynerCD:Synergistic Tri-branch and Vision-Language Coupling\\ for Remote Sensing Change Detection </h1>
+<h1> SynerCD:Synergistic Tri-branch and Vision-Language Coupling for Remote Sensing Change Detection </h1>
 </div>
 
 ## 🎈 News
@@ -16,7 +16,7 @@ The challenges:
 ## 📻 Overview
 
 <div align="center">
-<img width="800" alt="image" src="asserts/SynderCD.PNG?raw=true">
+<img width="800" alt="image" src="assert/SynderCD.PNG?raw=true">
 </div>
 
 
@@ -60,7 +60,7 @@ concrete information see ./SynerCD/test.py, please
 ## 🖼️ Visualization
 
 <div align="center">
-<img width="800" alt="image" src="asserts/Visualization.PNG?raw=true">
+<img width="800" alt="image" src="assert/Visualization.PNG?raw=true">
 </div>
 
 
